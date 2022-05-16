@@ -12,3 +12,6 @@ kaggle.com/datasets/cdc/behavioral-risk-factor-surveilance-system?resource=downl
 
 ### Installation 
 Packages used include numby, pandas, matplotlib, sklearn, seaborn
+
+## Aditional Notes
+Rather than impute values to fix missing data I chose to remove the effected columns or rows based on the large data set that remained even after all the needed deletions. In a future itteration, I could add the imputed values. 
