@@ -30,7 +30,7 @@ Rather than impute values to fix missing data I chose to remove the effected col
 Project 1_Sammy.ipynb: Jupyter Notebook containing data analysis
 
 ## Resolution
-
+While older and less educated populations see higher incidence of diabetes, predicting your chances of getting diabetes involves more factors than a person’s age, weight, income, education, race, mental health, gender, and state of residence.
 
 ### Credit
 Data 
