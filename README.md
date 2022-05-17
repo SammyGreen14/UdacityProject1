@@ -25,3 +25,4 @@ Packages used include numby, pandas, matplotlib, sklearn, seaborn
 Rather than impute values to fix missing data I chose to remove the effected columns or rows based on the large data set that remained even after all the needed deletions. In a future itteration, I could add the imputed values. 
 
 ## Files
+Project 1_Sammy.ipynb: Jupyter Notebook containing data analysis
