@@ -15,7 +15,9 @@ Does lack of education doom you to a life with diabetes?
 Do women get diagnosed at a higher rate?
 
 ## Data
-CDC Behavioral Risk Factor Surveillance System Survey from 2015 found on Kaggle at 
+CDC Behavioral Risk Factor Surveillance System Survey from 2015. Phone survey asking participants lifestyle and health questions
+
+File is too large to attach to repository. It can be found on Kaggle at 
 https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?resource=download&select=2015.csv
 
 ## Installation 
@@ -26,3 +28,10 @@ Rather than impute values to fix missing data I chose to remove the effected col
 
 ## Files
 Project 1_Sammy.ipynb: Jupyter Notebook containing data analysis
+
+## Resolution
+
+
+### Credit
+Data 
+“Behavioral Risk Factor Surveillance System.” Kaggle, CENTERS FOR DISEASE CONTROL AND PREVENTION, 24 Aug. 2017, https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?resource=download&select=2015.csv.
