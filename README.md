@@ -20,6 +20,8 @@ CDC Behavioral Risk Factor Surveillance System Survey from 2015. Phone survey as
 File is too large to attach to repository. It can be found on Kaggle at 
 https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system?resource=download&select=2015.csv
 
+Data Dictionary at https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
+
 ## Installation 
 Packages used include numby, pandas, matplotlib, sklearn, seaborn
 
